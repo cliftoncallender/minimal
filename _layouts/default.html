@@ -1,8 +1,10 @@
 {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}<!doctype html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
 	<head>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+		<meta property="og:image" content="/favicon.png" />
 		<title>{% if page.title %}{{ page.title }}{% else %}Clifton Callender{% endif %}</title>
 		
 		<link rel="canonical" href="{{ site.url }}{{ page.url }}" />

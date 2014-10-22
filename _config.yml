@@ -1,0 +1,17 @@
+name:   'Clifton Callender'
+url:    'http://cliftoncallender.github.io'
+author: 'Clifton Callender'
+
+include:  ['_pages']
+
+paginate:      5
+paginate_path: '/blog/page:num/'
+permalink:     '/:categories/:title'
+relative_permalinks: false
+
+excerpt_separator: "{{ more }}"
+
+safe:     true
+highlighter: pygments
+markdown: 'kramdown'
+timezone: 'America/Atlanta'

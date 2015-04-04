@@ -4,4 +4,14 @@ layout:    default
 title:     Teaching
 ---
 
-In the process of porting online teaching materials from Blackboard to GitHub.
+{% for research in site.pages reversed %}
+{% if research.categories == 'teaching' %}
+  <h3>{{ research.title }}</h3>
+  {% if research.image %} ![JPG](/img/research/{{ research.image }})  {% endif %}
+  {: style="text-align: left"}
+  {{ research.content }}
+  {% if research.paper %} [PDF](/img/pdfs/{{ research.paper }}) {% endif %}
+  
+  ----------
+{% endif %}
+{% endfor %}

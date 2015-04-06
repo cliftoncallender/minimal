@@ -3,8 +3,8 @@ layout: default
 title: Computational Methods
 categories: teaching
 ---
-Doctoral Seminar<br>
-Conceptual Methods in Music Research and Composition
+Computational Methods in Music Research and Composition<br>
+Doctoral Seminar: Fall 2015
 
 - [Statistical analysis of harmony and melody in rock music][rock harmony]
 - [Algorithm][callender] as [music][freeman] [composition][supka]

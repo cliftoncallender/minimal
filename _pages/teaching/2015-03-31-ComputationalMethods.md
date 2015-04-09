@@ -18,7 +18,7 @@ Doctoral Seminar: Fall 2015
 - [Improvising][toplap] [computer][overtone] [music][chucK]
 - [Pedagogy and music computing][sonic pi]
 
-These are just of few recent examples of research projects and compositional approaches that rely on computational methods for manipulating, analyzing, and generating musical data. The goal of this seminar is to explore these methods by developing music programming and computational skills and applying these tolls in projects of primary interest to students.
+These are just of few recent examples of research projects and compositional approaches that rely on computational methods for manipulating, analyzing, and generating musical data. The goal of this seminar is to explore these methods by developing music programming and computational skills and applying these tools in projects of primary interest to students.
 
 To that end, the first part of the seminar will focus on music programming in Python and Music21. [Python][python] is a general-purpose, object-oriented, interpreted programming language that emphasizes clear, readable code, is relatively easy to learn, and has support in the academic community with extensive outside libraries. For musicians, [Music21][music21] is a particularly useful set of Python tools "for helping scholars and other active listeners answer questions about music quickly and simply." (For more details, read Dmitri Tymoczko's [review of Music21][review] in _Music Theory Online_.)
 

@@ -12,7 +12,7 @@ _Three-credit course that counts as an upper-division music theory elective._
 This new course offering is an introduction to music and multimedia programming using the visual programming language [Max][Max] (from [Cycling '74][Cycling '74]). Max allows users to create their own software for interactive audio and graphics by virtually connecting objects for real-time manipulation of MIDI, digital audio, and video (including 2D and 3D vector graphics). Some of the many [projects][projects] utilizing Max:
 
 - Interactive [audio][brook], [audio/visual][schubert], and [dance][axis-images] works
-- New possibilities for [improvisation][BeatFactory] and [performance][tropes], 
+- New possibilities for [improvisation][BeatFactory] and [performance][tropes]
 - Tools for [music theory][ChordGeometries] and [ethnomusicology][gamelan]
 - [Creating multimedia apps][MetroKit2]
 - [New musical interfaces][bow sensor], ([mechanical][lithophones]) [instruments][pringles], and [software][trueman]

@@ -40,7 +40,7 @@ Previous experience with programming or MIDI and digital audio is not required. 
 
 [bow sensor]: https://cycling74.com/project/kokas-bow-sensor/
 [lithophones]: https://youtu.be/FlhKODYXrhM
-[pringles]: http://flock.mx/trabajo/pringles-latas/
+[pringles]: http://www.zamarron.mx/pringles-keyboard-a-pipe-organ-with-max-and-gen/
 [trueman]: http://manyarrowsmusic.com/nostalgicsynchronic/?page_id=54
 
 [MetroKit2]: https://cycling74.com/project/metrokit-2/#.V0mZFJMrKRs

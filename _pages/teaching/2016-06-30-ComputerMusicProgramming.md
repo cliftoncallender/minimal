@@ -2,6 +2,7 @@
 layout: default
 title: Computer Music Programming
 categories: teaching
+image: MaxPatch.jpg
 ---
 New Undergraduate Course!  
 Computer Music Programming (Fall 2016)  

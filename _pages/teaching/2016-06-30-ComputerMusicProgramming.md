@@ -22,7 +22,7 @@ This new course offering is an introduction to music and multimedia programming 
 
 More generally, this course will focus on computational methods for manipulating, analyzing, and generating musical data and will cover many of the fundamental concepts of computer programming, including variables and data types, conditionals, loops, data structures, encapsulation and abstraction, and graphical user interface (GUI) design. Students who take this course will be well-prepared to learn a more general programming language in the future.
 
-Previous experience with programming or MIDI and digital audio is not required. The course is intended for _all_ undergraduate music majors who have passed the core music theory courses and counts toward the upper-division music theory requirements.
+Previous experience with programming or MIDI and digital audio is not required. The course is intended for _all_ undergraduate music majors who have passed the core music theory courses and counts toward the upper-division music theory requirements. (Composition majors may apply these credits to _any_ upper-division theory requirements.)
 
 [Max]: https://en.wikipedia.org/wiki/Max_(software)
 [Cycling '74]: https://cycling74.com/

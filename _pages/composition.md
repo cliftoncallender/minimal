@@ -3,7 +3,7 @@ permalink: /composition/
 layout: default
 title: Composition
 ---
-###Selected Compositions
+### Selected Compositions
 Contact me for complete list, parts, click tracks, etc.
 
 {% for composition in site.pages reversed %}

@@ -7,7 +7,7 @@ nobio:     true
 
 I'm active as both a composer and theorist. My work often connects with mathematics, including self-similarity and infinite canons, quotient spaces and voice leading, calculus and tempo, and aperiodic rhythms and tilings associated with continued fractions.
 
-I'm an [Associate Professor of Composition][FacultyPage] in the [College of Music][COM] at [Florida State University][FSU], Co Editor-in-Chief of the [Journal of Mathematics and Music][JMM] and Associate Editor of [Perspectives of New Music][Perspectives]. 
+I'm a [Professor of Composition][FacultyPage] in the [College of Music][COM] at [Florida State University][FSU], Co Editor-in-Chief of the [Journal of Mathematics and Music][JMM] and Associate Editor of [Perspectives of New Music][Perspectives]. 
 
 Say hi by [email][gmail] or on [Twitter][twitter]. Listen to my work on [SoundCloud][soundcloud], view projects on [GitHub][github], or read a [bio](/about/bio/) or [CV](/img/pdfs/cv.pdf).
 

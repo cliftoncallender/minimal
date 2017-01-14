@@ -11,6 +11,7 @@ title:     Research
   {: style="text-align: center"}
   {{ research.content }}
   {% if research.paper %} [PDF](/img/pdfs/{{ research.paper }}) {% endif %}
+  {% if research.presentation %} [presentation](/resources/{{ research.presentation }}) {% endif %}
   
   ----------
 {% endif %}

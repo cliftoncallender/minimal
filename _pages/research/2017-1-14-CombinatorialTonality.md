@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ligeti's Combinatorial Tonality
-paper: CallenderCombinatorialTonality.pdf
+paper: CallenderMCM2017.pdf
 image: CombinatorialTonality.jpg
 categories: research
 ---

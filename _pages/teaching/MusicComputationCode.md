@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/music_computation/code/
 layout: default
-title: Computer Music Programming
+title: Music Computation
 categories: 
 image: MaxPatch.jpg
 ---

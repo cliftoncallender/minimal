@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/music_computation/
+permalink: /teaching/music_computation/code/
 layout: default
 title: Computer Music Programming
 categories: 

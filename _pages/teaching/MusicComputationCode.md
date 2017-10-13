@@ -5,7 +5,7 @@ title: Music Computation
 categories: 
 image: MaxPatch.jpg
 ---
-Code examples for the course:
+### Code examples for the course:
 
 [Code for Sep. 19](http://cliftoncallender.com/music_computation/code/Sep19_2017.html)  
 [Code for Sep. 21](http://cliftoncallender.com/music_computation/code/Sep21_2017.html)  

@@ -18,3 +18,4 @@ image: MaxPatch.jpg
 [Mozart musical dice game](MusikalischeWurfelspiele.html){:target="_blank"}  
 [Sample Python code](CopeEMIFunctions.html){:target="_blank"} for [David Cope's 1992 CMJ article](https://www.jstor.org/stable/3680717?seq=1#page_scan_tab_contents){:target="_blank"}  
 [Hidden Markov Model example (basic)](hmm_example.html){:target="_blank"}
+[Random selection from weighted choices](weighted_choice_explanation){:target="_blank"}

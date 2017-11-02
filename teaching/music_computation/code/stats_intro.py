@@ -49,8 +49,20 @@ trials = sim.flip_trials(1000, 10000)
 means = [np.mean(trial) for trial in trials]
 mean = np.mean(means)
 sigma = np.std(means)
+
+# Results should be similar to:  
+# `The mean is 0.5300304`  
+# `The standard deviation is 0.0157946977128`  
+
 print('The mean is', mean)
 print('The standard deviation is', sigma)
+
+# `68% of the values lie between 0.514235702287 and 0.545825097713`  
+# `95% of the values lie between 0.498441004574 and 0.561619795426`  
+# `99.7% of the values lie between 0.482646306861 and 0.577414493139`
+# Thus, on the basis of this particular simulation we can say with 95%
+# confidence that `secret.value` lies between 0.498 and 0.562.
+
 print('68% of the values lie between', mean - sigma, 'and', mean + sigma)
 print('95% of the values lie between', mean - 2*sigma, 'and', mean + 2*sigma)
 print('99.7% of the values lie between', mean - 3*sigma, 'and', mean + 3*sigma)

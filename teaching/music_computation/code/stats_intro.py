@@ -145,3 +145,47 @@ statistic, p_value = stats.ttest_1samp(sample, test_mean)
 # 2.6279100509e-10`
 print('For one-sample T-test with given sample and a mean of',
       test_mean, 'p-value is', p_value)
+
+# == Geometric distributions ==
+
+# The following code is based on the ending conditions for Ash's algorithmic
+# piece. Once the piece is at least 32 notes long, the next C4 produced
+# initiates the ending of the piece. How many notes beyond 32 is it expected
+# before C4 occurs?
+
+def trial():
+    # keep count of the notes produced before C4
+    count = 0
+    while True:
+        # G3 = 0, A3 = 0, ..., C5 = 10
+        value = random.randint(0, 10)
+        # Stop trial if value is C4
+        if value == 3:
+            break
+        count += 1
+    return count
+
+# Generate counts for 10,000 trials
+N = 10000
+trials = [trial() for _ in range(N)]
+counts = Counter(trials)
+
+# Create x and y values
+xs = range(1, max(counts) + 1)
+vals = [counts[x] for x in xs]
+ys = np.array(vals) / N
+
+# Plot the probability mass function of the resulting
+# [geometric distribution](https://en.wikipedia.org/wiki/Geometric_distribution)
+plt.title('Probability mass function\ngeometric distribution')
+plt.ylabel('Probability')
+plt.xlabel('Random selections until success')
+plt.plot(xs, ys)
+plt.show()
+
+# Plot the cumulative distribution function
+ys = np.cumsum(vals) / N
+plt.title('Cumulative distribution function\ngeometric distribution')
+plt.ylabel('Cumulative probability')
+plt.show()
+

@@ -9,7 +9,7 @@ import matplotlib.mlab as mlab
 # Import [secret.py](secret.py) which contains the `success_rate`
 # for instiating `FlipSim` in the examples below
 import secret
-import scipy.stats as st
+import scipy.stats as stats
 
 # === Simulation of Bernoulli trials ===
 
@@ -95,14 +95,53 @@ x3 = FlipSim(0.57).flips(1000)
 # Results should be similar though not identical to:
 # `Ttest_indResult(statistic=0.53653387639428951, pvalue=0.59164936190673534)`
 # Null hypothesis is not rejected
-print(st.ttest_ind(x1, x2))
+print(stats.ttest_ind(x1, x2))
 # `Ttest_indResult(statistic=-1.2543243107046314, pvalue=0.20987087051240788)`
 # Null hypothesis is rejected
-print(st.ttest_ind(x1, x3))
+print(stats.ttest_ind(x1, x3))
 
 # Use ANOVA to test the Null Hypothesis that the means of more than two
 # independent samples are all the same.
 # Results should be similar to:  
 # `F_onewayResult(statistic=9.1459470595680799, pvalue=0.0001096574199724701)`
 # Null Hypothesis is rejected
-print(st.f_oneway(x1, x2, x3))
+print(stats.f_oneway(x1, x2, x3))
+
+# == Standard error of the means ==
+
+# === Example from Temperley, _Music and Probability_, ch. 2 ===
+
+sample = [1] * 599 + [0] * 401
+
+# The standard deviation doesn't tell us what we want to know, because we are
+# dealing with a single sample rather than the means of many samples.
+mu = np.mean(sample)
+sigma = np.std(sample)
+print('mu = {}, std = {}'.format(mu, sigma))
+plt.hist(sample)
+plt.show()
+
+# To estimate the mean from a single sample, use the Standard Error of the Means
+# (SEM)
+SEM = sigma / (len(sample) ** 0.5)
+# `standard error of the means is 0.0154983547514`
+print('standard error of the means is', SEM)
+x = np.linspace(mu - 3 * SEM, mu + 3 * SEM, 100)
+plt.plot(x, mlab.normpdf(x, mu, SEM))
+plt.show()
+
+# SEM is implemented directly in scipy.stats
+SEM = stats.sem(sample)
+# `95% confidence that population mean is between 0.5679877805090032`
+# `and 0.6300122194909967`
+print('95% confidence that population mean is between {} and {}'.
+      format(mu - 2 * SEM, mu + 2 * SEM))
+
+# Use the One-sample T-test to compare the mean of a sample with an expected
+# mean
+test_mean = 0.5 #
+statistic, p_value = stats.ttest_1samp(sample, test_mean)
+# `For one-sample T-test with given sample and a mean of 0.5 p-value is
+# 2.6279100509e-10`
+print('For one-sample T-test with given sample and a mean of',
+      test_mean, 'p-value is', p_value)

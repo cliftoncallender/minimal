@@ -49,7 +49,7 @@ for instiating <code>FlipSim</code> in the examples below</p>
     </div>
     <div class='code'>
       <div class="highlight"><pre><span class="kn">import</span> <span class="nn">secret</span>
-<span class="kn">import</span> <span class="nn">scipy.stats</span> <span class="kn">as</span> <span class="nn">st</span></pre></div>
+<span class="kn">import</span> <span class="nn">scipy.stats</span> <span class="kn">as</span> <span class="nn">stats</span></pre></div>
     </div>
   </div>
   <div class='clearall'></div>
@@ -355,7 +355,7 @@ Results should be similar though not identical to:
 Null hypothesis is not rejected</p>
     </div>
     <div class='code'>
-      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="n">st</span><span class="o">.</span><span class="n">ttest_ind</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">x2</span><span class="p">))</span></pre></div>
+      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="n">stats</span><span class="o">.</span><span class="n">ttest_ind</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">x2</span><span class="p">))</span></pre></div>
     </div>
   </div>
   <div class='clearall'></div>
@@ -368,7 +368,7 @@ Null hypothesis is not rejected</p>
 Null hypothesis is rejected</p>
     </div>
     <div class='code'>
-      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="n">st</span><span class="o">.</span><span class="n">ttest_ind</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">x3</span><span class="p">))</span></pre></div>
+      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="n">stats</span><span class="o">.</span><span class="n">ttest_ind</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">x3</span><span class="p">))</span></pre></div>
     </div>
   </div>
   <div class='clearall'></div>
@@ -384,7 +384,130 @@ Results should be similar to:<br />
 Null Hypothesis is rejected</p>
     </div>
     <div class='code'>
-      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="n">st</span><span class="o">.</span><span class="n">f_oneway</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">x2</span><span class="p">,</span> <span class="n">x3</span><span class="p">))</span>
+      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="n">stats</span><span class="o">.</span><span class="n">f_oneway</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">x2</span><span class="p">,</span> <span class="n">x3</span><span class="p">))</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-28'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-28'>#</a>
+      </div>
+      <h2><span id="standard-error-of-the-means" href="standard-error-of-the-means"> Standard error of the means </span></h2>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-29'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-29'>#</a>
+      </div>
+      <h3><span id="example-from-temperley,-_music-and-probability_,-ch.-2" href="example-from-temperley,-_music-and-probability_,-ch.-2"> Example from Temperley, <em>Music and Probability</em>, ch. 2 </span></h3>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="n">sample</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">*</span> <span class="mi">599</span> <span class="o">+</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="mi">401</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-30'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-30'>#</a>
+      </div>
+      <p>The standard deviation doesn't tell us what we want to know, because we are
+dealing with a single sample rather than the means of many samples.</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="n">mu</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">sample</span><span class="p">)</span>
+<span class="n">sigma</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">std</span><span class="p">(</span><span class="n">sample</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="s1">&#39;mu = {}, std = {}&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">mu</span><span class="p">,</span> <span class="n">sigma</span><span class="p">))</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">hist</span><span class="p">(</span><span class="n">sample</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-31'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-31'>#</a>
+      </div>
+      <p>To estimate the mean from a single sample, use the Standard Error of the Means
+(SEM)</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="n">SEM</span> <span class="o">=</span> <span class="n">sigma</span> <span class="o">/</span> <span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">sample</span><span class="p">)</span> <span class="o">**</span> <span class="mf">0.5</span><span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-32'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-32'>#</a>
+      </div>
+      <p><code>standard error of the means is 0.0154983547514</code></p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="s1">&#39;standard error of the means is&#39;</span><span class="p">,</span> <span class="n">SEM</span><span class="p">)</span>
+<span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="n">mu</span> <span class="o">-</span> <span class="mi">3</span> <span class="o">*</span> <span class="n">SEM</span><span class="p">,</span> <span class="n">mu</span> <span class="o">+</span> <span class="mi">3</span> <span class="o">*</span> <span class="n">SEM</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">mlab</span><span class="o">.</span><span class="n">normpdf</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">mu</span><span class="p">,</span> <span class="n">SEM</span><span class="p">))</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-33'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-33'>#</a>
+      </div>
+      <p>SEM is implemented directly in scipy.stats</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="n">SEM</span> <span class="o">=</span> <span class="n">stats</span><span class="o">.</span><span class="n">sem</span><span class="p">(</span><span class="n">sample</span><span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-34'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-34'>#</a>
+      </div>
+      <p><code>95% confidence that population mean is between 0.5679877805090032</code>
+<code>and 0.6300122194909967</code></p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="s1">&#39;95</span><span class="si">% c</span><span class="s1">onfidence that population mean is between {} and {}&#39;</span><span class="o">.</span>
+      <span class="n">format</span><span class="p">(</span><span class="n">mu</span> <span class="o">-</span> <span class="mi">2</span> <span class="o">*</span> <span class="n">SEM</span><span class="p">,</span> <span class="n">mu</span> <span class="o">+</span> <span class="mi">2</span> <span class="o">*</span> <span class="n">SEM</span><span class="p">))</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-35'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-35'>#</a>
+      </div>
+      <p>Use the One-sample T-test to compare the mean of a sample with an expected
+mean</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="n">test_mean</span> <span class="o">=</span> <span class="mf">0.5</span> <span class="c1">#</span>
+<span class="n">statistic</span><span class="p">,</span> <span class="n">p_value</span> <span class="o">=</span> <span class="n">stats</span><span class="o">.</span><span class="n">ttest_1samp</span><span class="p">(</span><span class="n">sample</span><span class="p">,</span> <span class="n">test_mean</span><span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-36'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-36'>#</a>
+      </div>
+      <p><code>For one-sample T-test with given sample and a mean of 0.5 p-value is
+2.6279100509e-10</code></p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="s1">&#39;For one-sample T-test with given sample and a mean of&#39;</span><span class="p">,</span>
+      <span class="n">test_mean</span><span class="p">,</span> <span class="s1">&#39;p-value is&#39;</span><span class="p">,</span> <span class="n">p_value</span><span class="p">)</span>
 
 </pre></div>
     </div>

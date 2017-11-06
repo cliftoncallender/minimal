@@ -20,5 +20,5 @@ image: MaxPatch.jpg
 [Hidden Markov Model example (basic)](hmm_example.html){:target="_blank"}  
 [Random selection from weighted choices](weighted_choice_explanation){:target="_blank"}  
 [Simulation and basic statistics in Python](stats_intro.html){:target="_blank"}  
-[Simplified meter finding algorithm (based on Temperley, chapter 3)](simplified_meter_finding){:target="_blank"}
+[Simplified meter finding algorithm (based on Temperley, chapter 3)](simplified_meter_finding){:target="_blank"}  
 [Complex numbers and the DFT in Python and NumPy](fourier_demo.py){:target="_blank"}

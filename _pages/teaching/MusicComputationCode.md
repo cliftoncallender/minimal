@@ -23,4 +23,5 @@ image: MaxPatch.jpg
 [Simplified meter finding algorithm (based on Temperley, chapter 3)](simplified_meter_finding){:target="_blank"}  
 [Complex numbers and the DFT in Python and NumPy](fourier_demo.html){:target="_blank"}  
 [Machine learning 1---sklearn, datasets, PCA, 2D and 3D scatterplots](machine_learning_1.html){:target="_blank"}  
-[Machine learning 2---classifiers in sklearn](machine_learning_2.html){:target="_blank"}
+[Machine learning 2---classifiers in sklearn](machine_learning_2.html){:target="_blank"}  
+[Machine learning 3---cross validation in sklearn](machine_learning_3.html){:target="_blank"}

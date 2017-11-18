@@ -24,4 +24,5 @@ image: MaxPatch.jpg
 [Complex numbers and the DFT in Python and NumPy](fourier_demo.html){:target="_blank"}  
 [Machine learning 1---sklearn, datasets, PCA, 2D and 3D scatterplots](machine_learning_1.html){:target="_blank"}  
 [Machine learning 2---classifiers in sklearn](machine_learning_2.html){:target="_blank"}  
-[Machine learning 3---cross validation in sklearn](machine_learning_3.html){:target="_blank"}
+[Machine learning 3---cross validation in sklearn](machine_learning_3.html){:target="_blank"}  
+[Machine learning 4---feature extraction and the DataSet class in music21](machine_learning_4.html){:target="_blank"}  

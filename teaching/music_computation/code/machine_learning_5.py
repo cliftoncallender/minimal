@@ -21,7 +21,8 @@ def process_chorales():
     Iterates through all Bach chorales, discarding those where the number
     of parts is not 4.
 
-    Collect the pc histogram for each remaining chorale and pickle the data.
+    Collect the pc histogram for each remaining chorale and saves the data
+    as 'chorales_pc_counts.npy' using `np.save`.
     """
     chorales_pc_counts = []
 
@@ -45,9 +46,9 @@ def process_chorales():
         if length % 10 == 0:
             print(length, 'chorales processed')
 
+    chorales_pc_counts = np.array(chorales_pc_counts)
     # Pickle the pc counts
-    pickle.dump(np.array(chorales_pc_counts),
-                open('chorales_pc_counts.pkl', 'wb'))
+    np.save('chorales_pc_counts.npy', chorales_pc_counts)
     return chorales_pc_counts
 
 def get_pcs(s):
@@ -79,14 +80,14 @@ def get_tonic_pc(s):
 
 def load_data():
     """
-    Unpickles 'chorales_pc_counts.pkl', which is a list of Bach chorale pitch-
-    class counts. If 'chorales_pc_counts.pkl' does not exist, calls
-    `process_chorales()` to generate this list.
+    Loads 'chorales_pc_counts.npy', which is a list of Bach chorale pitch-
+    class counts, using `np.load`. If 'chorales_pc_counts.npy' does not exist,
+    calls `process_chorales()` to generate this list.
 
     Returns a list of Bach chorale pitch-class counts.
     """
-    if os.path.isfile('chorales_pc_counts.pkl'):       
-        return pickle.load(open('chorales_pc_counts.pkl', 'rb'))
+    if os.path.isfile('chorales_pc_counts.npy'):       
+        return np.load('chorales_pc_counts.npy')
     else:
         return process_chorales()
 

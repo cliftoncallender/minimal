@@ -26,4 +26,5 @@ image: MaxPatch.jpg
 [Machine learning 2---classifiers in sklearn](machine_learning_2.html){:target="_blank"}  
 [Machine learning 3---cross validation in sklearn](machine_learning_3.html){:target="_blank"}  
 [Machine learning 4---feature extraction and the DataSet class in music21](machine_learning_4.html){:target="_blank"}  
+[Machine learning 5---k-means clustering of Bach chorales into modes, silhouette scores, visualizing results with Voronoi diagrams](machine_learning_5.html){:target="_blank"}  
 [Pickling example](pickle_example.html){:target="_blank"}  

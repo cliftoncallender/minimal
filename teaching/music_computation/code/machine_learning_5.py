@@ -6,7 +6,6 @@ distributions. Original code [here](machine_learning_5.py).
 """
 
 from music21 import corpus
-import pickle
 import numpy as np
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
@@ -47,7 +46,7 @@ def process_chorales():
             print(length, 'chorales processed')
 
     chorales_pc_counts = np.array(chorales_pc_counts)
-    # Pickle the pc counts
+    # Save the pc counts
     np.save('chorales_pc_counts.npy', chorales_pc_counts)
     return chorales_pc_counts
 

@@ -11,10 +11,10 @@ image:
 
 ## Fall 2017  
 
-### Program
-
 December 5, 8:00 PM  
 Dohnányi Music Hall
+
+### Program
 
 Michael Gordon  
 _acdc_ (1997)  
@@ -70,3 +70,208 @@ If one believes that appropriation is not a viable aesthetic, then one must conc
 _Pulau Dewata_, whose title means “Island of the Gods” in Indonesian, is a tribute piece to the wonderful Balinese people. The whole piece is merely a melody whose rhythmic language is sometimes drawn from the Balinese rhythmic line. A tribute with memories of this island. The ending of the piece is in fact an exact quotation of the “panjit prana,” the offering dance of the Legong. I wanted a simple piece: monochrome, a short piece above all full of joy, alternating single melodies—“intervalized”—and complementary melodies in the Balinese style. It is a child’s music ...
 
 — Claude Vivier
+
+-----
+
+## 2017 Festival of New Music
+
+February 3, 2:00 PM
+Opperman Music Hall
+
+### Program
+
+_eight shades of metal_ (2014)  
+Nickitas Demos  
+Saxophone quartet: Katherine Weintraub, soprano; Cole Belt, alto; Nick Childs, tenor; Galo Morales, baritone  
+Trombone quartet: Kyle Schaefer, Tyler Coffman, Kevin Clancy, Jonathan Lacey (bass)  
+Trey Harris, conductor
+
+_Otherness_ (2014)  
+Fernanda Navarro
+John Ross, flute; Brian Corbin, bass clarinet;  
+Jared Starr, violin; Maria Santacruz, viola;  
+Carrie Miller, cello; Yinhui Li, piano;  
+Jacob Kight, percussion; Trey Harris, conductor
+
+_The White_ Album (2014)  
+Mark Kilstofte  
+&emsp;3. I Am Learning to Abandon the World  
+&emsp;2. The Mad Scene Mark Kilstofte  
+Feryal Qudourah, soprano; Ayça Çetin, flute;  
+Katsuya Yuasa, clarinet; Dani Hoisington, violin;  
+Aleksandra Pereverzeva, cello; YingYing Wang, piano;  
+Andrew Bockman, percussion; Rachel Friedman, conductor
+
+— Intermission —
+
+_Rhythmensional_ (2015)  
+Fernando Benadon  
+Brian Corbin, bass clarinet; Shelby Thompson, viola;  
+Tyler Tolles, vibraphone; Guilherme Godoi, piano
+
+_Šeptet (7/whispers)_ (2014)  
+Ondřej Štochl  
+Hank Lundrum, clarinet; Petra Bubanja and Edward Charity, violins;  
+Jack Flores, cello; DK Issitt, contrabass;  
+Huizi Zhang, piano; Jeremy Avalos, guitar;  
+Michael Douty, conductor
+
+_Zilver_ (1994)  
+Louis Andriessen  
+Laura Clapper, flute; Jake Meyer, clarinet;  
+Marianna Brickle, violin; Aleksandra Pereverzeva, cello;  
+Chad Spears, piano; Mitchell Gribbroek, marimba;  
+Jack Rutledge, vibraphone and glockenspiel; James Chang, conductor
+
+----
+
+## Spring 2016
+
+April 16, 4:00 PM  
+Opperman Music Hall
+
+### Program
+
+_Jigsaw_ (2015)  
+Paul Richards  
+Scotty Phillips, saxophone; Carrie Miller, cello
+
+_Lullaby_ (1990) and _Dash_ (2004)  
+Jennifer Higdon  
+Catherine Handgen, flute; Sara Everson, soprano saxophone  
+Huizi Zhang, piano
+
+_Blue Third Pieces_ (1996)  
+Libby Larsen  
+Thomas Rowat, clarinet; Matthew Gillen, guitar
+
+_China Gates_ (1977)  
+John Adams  
+Huizi Zhang, piano
+
+_String Quartet_ (2016)  
+Marshall Jones  
+Elaine Bastos and Jocelyn Hsu, violins  
+Joseph Koeferl, viola; Lagan Castro, cello
+
+_Les Moutons de Panurge_ (1969)  
+Frederic Rzewski  
+Catherine Handgen, flute; Sara Everson saxophone  
+Thomas Rowat and Larkin Sanders, clarinets  
+Logan Castro, Evan Jones, and Carrie Miller, cellos  
+Clifton Callender, David Kalhous, and Huizi Zhang, pianos  
+Matthew Gillen, guitar
+
+-----
+
+## Fall 2015
+
+November 18, 8:00 PM  
+Opperman Music Hall
+
+### Program
+
+_Spiegel im Spiegel_ (1978)  
+Arvo Pärt  
+Sophia Han, violin; Minji Nam, piano
+
+_Inter-_ (2014)  
+Aaron Spotts  
+Catherine Handgen, flute; Thomas Rowat, clarinet  
+Taylor Giogio, violin; Huizi Zhang, piano  
+Aaron Spotts, conductor
+
+_Song and Dance_ (2009)  
+Shulamit Ran  
+Sara Everson, saxophone; Tennison Watts, percussion
+
+_Rhapsody_ (2015)  
+Logan Castro  
+Rachel Hall, viola; Guilherme Godoi, piano
+
+_Petroushskates_ (1980)  
+Joan Tower  
+Alyssa Borel, flute; Thomas Rowat, clarinet  
+Tania Moldovan, violin; Jordan Galvarino, cello  
+Minji Nam, piano
+
+-----
+
+## Spring 2015
+
+April 26, 2015  
+Opperman Music Hall  
+
+### Program
+
+_Chants_ (2013)  
+Matthew Kaner  
+Alyssa Borel, flute; Joseph Velez, clarinet  
+Rachel Ace, viola; Ashlee Booth, cello
+
+_Im Dunkel_ (2013)  
+Agustin Castilla-Avila  
+Elyse Davis, flute; Laura Clapper, alto flute  
+Matthew Gillen, guitar
+
+_ring chant_ (2015)  
+Danny Clay  
+Jennifer Tinberg, clarinet; Benjamin Fraley, marimba
+
+_In a Dream_ (2015)  
+John Thomas III  
+Catherine Cole, marimba
+
+_For Eliza_ (2013)  
+Nomi Epstein  
+Lawrence Quinnett, piano
+
+_The More Things Change_ (2012)  
+Ingrid Stölzel  
+Adam Brennan, clarinet; Catherine Cole, percussion  
+Benjamin Maynard, violin; Ashlee Booth, cello  
+Adam Ravain, piano; Matthew Bishop, conductor
+
+_Groove Incubation_ (2013)  
+Kevin Wilt  
+Maxwell Thompson and Will Whitehead, violas  
+Jordan Galvarino and Lissa Reed, cellos  
+DK Issitt and Joseph Sabatino, basses  
+Matthew Bishop, conductor
+
+-----
+
+## Spring 2014
+
+April 27, 4:00 PM  
+Lindsay Recital Hall
+
+### Program
+
+_Raven_ (2004)  
+Edward Knight  
+Duo Rodinia:  
+Lisa Kachouee, clarinet; Jamie Whitmarsh, marimba
+
+_Nachtlieder_ (1978)  
+Esa-Pekka Salonen  
+Paul Petrucelli, clarinet; Eun-Mi Lee, piano
+
+_Tumbao_ (2005)  
+Tania León  
+Cholong Park, piano
+
+_Sonata for Eb clarinet and piano_ (1995/1999)  
+Sean Osborn  
+Paul Petrucelli, clarinet; Eun-Mi Lee, piano
+
+_Notions_ (2014)  
+Benjamin Fraley  
+Tommy Dobbs, percussion
+
+_Gallery_ (2014)  
+Alan Theisen  
+Force Majeure Quintet:  
+Nicole Riccardo, flute; Casey Knowlton, oboe  
+Patrick Fulton, clarinet; Kelsey Weber, bassoon  
+Joey Cafeo, horn

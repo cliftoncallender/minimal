@@ -5,44 +5,48 @@ title: FSU New Music Ensemble
 categories: 
 image: 
 ---
-## Fall 2017  
+# FSU New Music Ensemble
 
-December 5, 8:00 PM
-Dohnányi Music Hall
+----------
+
+## Fall 2017  
 
 ### Program
 
-Michael Gordon<br>
-<i>ac dc</i> (1997)<br>
-Kayla Hanvey, flute; Katsuya Yuasa, clarinet<br>
-Edward Charity, violin; Aleksandra Pereverzeva, cello<br>
-Bizhou Jin, piano; Keith Dodson, conductor<br>
-<br>
-Justin Giarrusso<br>
-<i>If it’s not Baroque</i> (2017)<br>
-Elaine Bastos and Pedro Maia, violins<br>
-Shelby Thompson, viola; Jack Flores, cello<br>
-Holden Bitner, contrabass; Tyler Tucker, harpsichord<br>
-<br>
-Yue Sun<br>
-<i>Quintet for Clarinet and String Quartet</i> (2016)<br>
-Katsuya Yuasa, clarinet;<br>
-Eppes Quartet:<br>
-Nina Kim and Pedro Maia, violins<br>
-Shelby Thompson, viola; Adam Collins, cello<br>
-<br>
-Michael Torke<br>
-<i>The Yellow Pages</i> (1984)<br>
-Cosmos New Music:<br>
-Ayça Çetin, flute; Katsuya Yuasa, clarinet<br>
-Pedro Maia, violin; Aleksandra Pereverzeva, cello<br>
-Thaya Kongpakpaisarn, piano<br>
-<br>
-Gu Wei<br>
-<i>Lion City</i> (2017)<br>
-Huizi Zhang and Minyoung Rho, pianos<br>
-<br>
-Claude Vivier<br>
-<i>Pulau Dewata</i> (1977)<br>
-Dylan Beeles and Miles Cingolani, percussion<br>
-Huizi Zhang, piano<br>
+December 5, 8:00 PM  
+Dohnányi Music Hall  
+
+Michael Gordon  
+_ac dc_ (1997)  
+Kayla Hanvey, flute; Katsuya Yuasa, clarinet  
+Edward Charity, violin; Aleksandra Pereverzeva, cello  
+Bizhou Jin, piano; Keith Dodson, conductor  
+  
+Justin Giarrusso  
+_If it’s not Baroque_ (2017)  
+Elaine Bastos and Pedro Maia, violins  
+Shelby Thompson, viola; Jack Flores, cello  
+Holden Bitner, contrabass; Tyler Tucker, harpsichord  
+  
+Yue Sun  
+_Quintet for Clarinet and String Quartet_ (2016)  
+Katsuya Yuasa, clarinet;  
+Eppes Quartet:  
+Nina Kim and Pedro Maia, violins  
+Shelby Thompson, viola; Adam Collins, cello  
+  
+Michael Torke  
+_The Yellow Pages_ (1984)  
+Cosmos New Music:  
+Ayça Çetin, flute; Katsuya Yuasa, clarinet  
+Pedro Maia, violin; Aleksandra Pereverzeva, cello  
+Thaya Kongpakpaisarn, piano  
+  
+Gu Wei  
+_Lion City_ (2017)  
+Huizi Zhang and Minyoung Rho, pianos  
+  
+Claude Vivier  
+_Pulau Dewata_ (1977)  
+Dylan Beeles and Miles Cingolani, percussion  
+Huizi Zhang, piano

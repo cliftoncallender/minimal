@@ -275,3 +275,303 @@ Force Majeure Quintet:
 Nicole Riccardo, flute; Casey Knowlton, oboe  
 Patrick Fulton, clarinet; Kelsey Weber, bassoon  
 Joey Cafeo, horn
+
+-----
+
+## Fall 2013
+
+December 2, 8:30 PM  
+Opperman Music Hall
+
+### Program
+
+_to wALk Or ruN in wEst harlem (2008)_  
+Andy Akiho  
+What Is Noise:  
+Sarah Jane Young, flute; Lisa Kachouee, clarinet  
+Joshua Burel, violin; Justin Page, cello  
+Tommy Dobbs and Jamie Whitmarsh, percussion  
+Cholong Park, piano
+
+_Bits and Pieces_ (2011)  
+Sean Osborn  
+Paul Petrucelli, clarinet
+
+_Roanoke_ (2013)  
+Joshua Burel  
+What Is Noise
+Jamie Whitmarsh, conductor
+
+_Gumboots_ (2008)  
+David Bruce  
+Lisa Kachouee, clarinet  
+JiaRong Gan and Patrick Lin, violins  
+Peter Dutilly, viola; Daron Kirsch, cello
+
+-----
+
+## 2013 Festival of New Music
+
+February 1, 2:00 PM  
+Opperman Music Hall
+
+### Program
+
+_VIM_
+HyeKyung Lee  
+Chris Kuhns, flute; Jared Eastridge, clarinet  
+Eleanor LeClair, marimba; Tatiana Gorbunova, piano  
+Alexandra Matloff and Jenny Lee Vaughn, violins  
+Julia Kim, viola; Katie Beth Farrell, cello  
+Tim Wiggins, conductor
+
+_Breathing Room_
+Travis Alford  
+Kallie Rogers, flute; Lisa Perry, clarinet;  
+Ben Fraley, percussion  
+Lawrence Quinnett, piano; Vilma Lloja, violin  
+Julia Kim, viola; Daron Kirsch, cello  
+Matt Bishop, conductor
+
+_Missing Time_  
+Donald Hagar  
+Sarah Jane Young, flute; Paul Petrucelli, clarinet  
+Justin Landers, piano; Hui Lim, violin  
+Elizabeth Donovan, cello; Ed Kawakami, conductor
+
+_Open Passage_  
+Hiroya Miura  
+Chris Kuhns, flute; Jia-Rong Gan, violin  
+Daron Kirsch, cello; Chad Spears, piano  
+Ed Kawakami, conductor
+
+_Town’s Gonna Talk_  
+Eric Lindsay  
+Kallie Rogers, flute; Jennifer Tinberg, bass clarinet  
+Cindy Willis and Tommy Dobbs, percussion  
+Krista Heslop, piano; Bernie Vaughn, violin  
+Elizabeth Donovan, cello; Alex Dee, conductor
+
+-----
+
+## Spring 2012
+
+April 1, 8:30 PM  
+Dohnányi Recital Hall
+
+### Program
+
+_Sparkling in the Dark_ (2011)  
+Lawrence Dillon  
+Matt Gelband, saxophone; Javier Rodriguez, bassoon
+
+_Manere_ (2008)  
+Alexander Goehr  
+Lisa Kachouee, clarinet; Jennifer Morgan, violin
+
+_Hiking the Cascade Creek Trail_ (2011)  
+Zachariah Zubow  
+Jamie Whitmarsh, percussion
+
+_Impressions of Mt. Charleston_ (2011)  
+Nolan Stolz  
+Scotty Phillips, saxophone
+
+_Rumi Settings_ (2001)  
+Augusta Read Thomas  
+Kristin Pfeifer, violin; Laurel Yu, viola
+
+_Quasi Hoquetus_ (1985)  
+Sofia Gubaidulina  
+Javier Rodriguez, bassoon; Emily Jensenius, viola  
+Roderick Gorby, piano
+
+-----
+
+## Fall 2011
+
+### Stephen Montague, guest composer
+
+November 30, 2011 8:00 PM  
+Opperman Music Hall
+
+### Program
+
+_Louder Than Words_ (2001)  
+Don Freund  
+Kim Loeffert, saxophone; Javier Rodriguez, bassoon  
+Mitchell Giambolvo, piano
+
+_Shine_ (2011)  
+Jung Song  
+Amanda Taylor, flute; Emily Beisel, clarinet  
+Tony Steve, percussion; Doori Yoo, piano  
+Jiwon Hwang, violin; Lauren Franklin, cello  
+Alex Dee, conductor
+
+_Piano Quintet_ (2011)  
+Joshua Keeling  
+Jiwon Hwang, violin; Hyunjin Han, violin  
+Laurie Rominger, viola; Lauramarie Laskey, cello  
+Mitchell Giambolvo, piano
+
+_Mira_ (1995)  
+Stephen Montague  
+Doori Yoo, piano
+
+_Paramell VI_ (1981)  
+Stephen Montague  
+Amanda Taylor, flute; Paul Petrucelly, clarinet  
+Lauren Franklin, cello; Mitchell Giambolvo, piano
+
+-----
+
+## 2011 Festival of New Music
+
+January 28, 2:00 PM  
+Dohnányi Recital Hall
+
+_Valence II_  
+Robert Baker  
+Nan Yen Lin, clarinet; Kristin Pfeifer, violin  
+Katie Geeseman, cello; Joy Thurman, piano  
+Tucker Biddlecomb, conductor
+
+_Two-Faced_	  
+Pierce Gradone  
+Sam Peliska, clarinet; Miguel Lesmes, violin  
+Ariana Macmillan, cello; Eric Jenkins, piano  
+James Mick, conductor
+
+_La defense_  
+Lan-chee Lam  
+Amanda Taylor, flute; Amanda Morrison, clarinet  
+Mia Detwiler, violin; Renate Falkner, viola  
+Jenna Nordschow, cello; Lydia Kilian, piano  
+William Tackett, conductor
+
+_The Pismirist’s Congeries_	  
+Carl Schimmel  
+Carlos Feller, flute; Jennifer Morgan, violin  
+Georgia Sinko, cello; Melissa Loehnig, piano  
+William Tackett, conductor
+
+_Sans Titre II_	  
+William Price  
+Eric Barreto-Maymi, alto saxophone
+
+_Moto Perpetuo_	  
+Liviu Marinescu  
+Amanda Taylor, flute; Rachel Shepard, violin  
+Marcos Vines, cello; Ryan Blakemore, piano  
+Ed Kawakami, conductor
+
+-----
+
+## Spring 2010
+
+April 12, 8:30 PM  
+Dohnányi Recital hall
+
+### Program
+
+_Fratres_ (1980)  
+Arvo Pärt  
+Jiwon Hwang, violin; Melissa Loehnig, piano
+
+_Novelette_ (2008)  
+Sarah Gaskins  
+Jennifer Morgan, violin; Doori Yoo, piano
+
+_Steamboat Bill Junior_ (1990)  
+Magnus Lindberg  
+Jeff O’Flynn, clarinet; Robert Barnes, cello
+
+_Cendres_ (1998)  Kaija Saariaho  
+Dalia Chin, alto flute; Robert Barnes, cello  
+Doori Yoo, piano
+
+_Visual Abstract_ (2002)  
+Pierre Jalbert  
+Dalia Chin, flute; Jeff O’Flynn, clarinet  
+Austin Pellela, percussion; Melissa Loehnig, piano  
+Jiwon Hwang, violin; Robert Barnes, cello  
+Alex Dee, conductor
+
+-----
+
+## Fall 2009
+
+November 22, 8:00 PM  
+Dohnányi Recital hall
+
+### Program
+
+_Litany_ (2009)  
+Shane McDonald  
+Desiree Gattis, clarinet; Hannah Neman, percussion  
+Doori Yoo, piano; Minyoung Cho, violin  
+Alex Dee, conductor
+
+_Estudios Sencillos_ (1973)  
+Leo Brouwer  
+&emsp;XIX Movido: Allegretto  
+&emsp;XX Movido: Rapido  
+Matt Ostler, guitar
+
+_Fuoco_ (1986)  
+Roland Dyens  
+Matt Ostler, guitar
+
+_In 3 two_ (2005)  
+Fernando Benadon  
+Desiree Gattis, bass clarinet; Minyoung Cho, violin  
+Marie Sinco, cello; Clifton Callender, conductor
+
+_Static_ (2006)  
+Sebastian Currier  
+Kristin Hayes, flute; Jeff O’Flynn, clarinet  
+Doori Yoo, piano; Erman Turkili, violin  
+Marie Sinco, cello; Ed Kawakami, conductor
+
+-----
+
+## 2009 Festival of New Music
+
+## Program
+
+_102nd & Amsterdam_	 
+Douglas Boyce  
+Hyunjin Han, violin; Laurel Yu, viola; Marie Sinco, cello
+
+_NARCISSUS/echo_  
+Chris Arrell  
+Lauren Cox, clarinet; Hojin Kim, violin  
+Youngjin Yun, cello; Brian Baldauff, vibraphone  
+Alex Dee, conductor
+
+_Ballistic Etude 3.1_  
+Mark Kilstofte  
+Jessica Epps, flute;  Jeff Brooks, bass clarinet  
+Aaron Seiler, violin; Robert Barnes, cello  
+Adam Groh, percussion; Katherine Thomas, piano  
+Christopher Ocasek, conductor
+
+_Stomp_  
+David Biedenbender  
+Jessica Schneider, clarinet; Hojin Kim, violin  
+Jayoung Kim, cello; Megan Arns, marimba  
+Mei-Ling Shen, piano; Frank Diaz, conductor
+
+_Sextet_  
+Matthew Van Brink  
+Jessica Epps, flute; Daniel Hasznos, clarinet  
+Eun-Hye Choi, piano; Hyunjin Han, violin  
+Laurel Yu, viola; Marie Sinco, cello  
+Amy Acklin, conductor
+
+_Small Worlds_  
+James Romig  
+Jessica Epps, flute; Shino Saito, clarinet  
+Ji Yeon Ryu, violin; Robert Barnes, cello  
+Gisele Mota, piano; Matt Diaz, conductor

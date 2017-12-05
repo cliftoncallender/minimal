@@ -57,7 +57,7 @@ _acdc_ is based on a simple, almost pop, chord progression that somehow found it
 
 — Michael Gordon
 
-_If It’s Not Baroque_ makes to the old joke, “if it’s not Baroque, don’t fix it.” While this piece is not completely Baroque-n, it does pay homage to some of my favorite composers of the Baroque era. The first movement draws from the concerti of Vivaldi. The “Air” finds its inspiration in the highly ornamented keyboard works of Couperin, as well as referencing the French Baroque practice of uneven notes (notes inégales), and J.S. Bach’s beautiful counterpoint was the primary inspiration for the last movement.
+_If It’s Not Baroque_ makes reference to the old joke, “if it’s not Baroque, don’t fix it.” While this piece is not completely Baroque-n, it does pay homage to some of my favorite composers of the Baroque era. The first movement draws from the concerti of Vivaldi. The “Air” finds its inspiration in the highly ornamented keyboard works of Couperin, as well as referencing the French Baroque practice of uneven notes (notes inégales), and J.S. Bach’s beautiful counterpoint was the primary inspiration for the last movement.
 
 — Justin Giarrusso
 

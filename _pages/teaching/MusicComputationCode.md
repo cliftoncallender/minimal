@@ -28,3 +28,4 @@ image: MaxPatch.jpg
 [Machine learning 4---feature extraction and the DataSet class in music21](machine_learning_4.html){:target="_blank"}  
 [Machine learning 5---k-means clustering, silhouette scores, Voronoi diagrams](machine_learning_5.html){:target="_blank"}  
 [Pickling example](pickle_example.html){:target="_blank"}  
+[Solution to maching learning problem set](MonteverdiExample.html){:target="_blank"}

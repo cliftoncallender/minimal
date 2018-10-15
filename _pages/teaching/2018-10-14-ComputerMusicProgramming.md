@@ -8,7 +8,7 @@ Undergraduate and Graduate Course: Spring 2019
 Computer Music Programming
 MUS 3934 and 5939 (Special Topics in Music)  
 Tuesdays and Thursdays, 2:00 -- 3:15 pm  
-_Three-credit course that counts as an upper-division music theory elective._  
+_Three-credit course that counts as a music theory elective._  
 (Non-music majors with programming experience may register with instructor permission.)
 
 This course is an introduction to music and multimedia programming using the visual programming language [Max][Max] (from [Cycling '74][Cycling '74]). Max allows users to create their own software for interactive audio and graphics by virtually connecting objects for real-time manipulation of MIDI, digital audio, and video (including 2D and 3D vector graphics). Some of the many [projects][projects] utilizing Max:

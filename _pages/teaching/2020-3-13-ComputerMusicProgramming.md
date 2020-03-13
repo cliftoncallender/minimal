@@ -4,7 +4,7 @@ title: Computer Music Programming
 categories: teaching
 image: MaxPatch.jpg
 ---
-Undergraduate and Graduate Course: Spring 2019
+Undergraduate and Graduate Course: Fall 2020
 Computer Music Programming
 MUS 3934-02 and 5939-02 (Special Topics in Music)  
 Tuesdays and Thursdays, 3:35 -- 4:50 pm  

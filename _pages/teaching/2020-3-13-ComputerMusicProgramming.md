@@ -4,9 +4,8 @@ title: Computer Music Programming
 categories: teaching
 image: MaxPatch.jpg
 ---
-Undergraduate and Graduate Course: Fall 2020
-Computer Music Programming
-MUS 3934 and 5939 (Special Topics in Music)  
+Undergraduate and Graduate Course: Fall 2020  
+Computer Music Programming  
 Tuesdays and Thursdays, 3:35 -- 4:50 pm  
 _Three-credit course counts as a music theory elective._  
 (Non-music majors with programming experience may register with instructor permission.)

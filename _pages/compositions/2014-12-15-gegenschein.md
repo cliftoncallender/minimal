@@ -1,5 +1,4 @@
 ---
-permalink: /composition/gegenschein/
 layout: default
 title: gegenschein
 instrumentation: violin solo
